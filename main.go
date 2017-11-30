@@ -3,7 +3,7 @@ package main
 import (
 	"os"
 
-	"service"
+	"github.com/Leeegal/cloudgo-data/tree/master/service"
 
 	flag "github.com/spf13/pflag"
 )
