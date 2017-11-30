@@ -4,7 +4,7 @@ import (
 	"net/http"
 	"strconv"
 
-	"entities"
+	"github.com/Leeegal/cloudgo-data/tree/master/entities"
 
 	"github.com/unrolled/render"
 )
