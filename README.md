@@ -32,7 +32,7 @@ sql 的 CRUD 操作 database/sql 具有强烈的模板特征，适当的回调�
 
 
 
-两次ab测试：
+ab测试：
 
 ![tem_ab.png](http://upload-images.jianshu.io/upload_images/1039936-52949ac3c21fdc05.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
 
